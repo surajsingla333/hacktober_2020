@@ -12,3 +12,11 @@ hacktoberfest 2020 by Sarthak Bhutani
 Hacktober3 by surajsingla333
 
 Hacktober1 by pradeepsingla1234
+
+Hacktober1 edit by srishtysingla11
+
+Hacktober2 edit by srishtysingla11
+
+Hacktober3 edit by srishtysingla11
+
+Hacktober4 edit by srishtysingla11
