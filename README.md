@@ -13,6 +13,8 @@ Hacktober3 by surajsingla333
 
 Hacktober1 by pradeepsingla1234
 
+Hacktober2 by pradeepsingla1234
+
 Hacktober1 edit by srishtysingla11
 
 Hacktober2 edit by srishtysingla11
