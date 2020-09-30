@@ -23,4 +23,6 @@ Hacktober3 edit by srishtysingla11
 
 Hacktober4 edit by srishtysingla11
 
+Hacktober3 by pradeepsingla1234
+
 Hacktober4 by pradeepsingla1234
