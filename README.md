@@ -10,3 +10,5 @@ HACKTOBER BY TEJASWI>
 hacktoberfest 2020 by Sarthak Bhutani
 
 Hacktober3 by surajsingla333
+
+Hacktober3 by srishtysingla11
